@@ -1,4 +1,4 @@
-# やあ👋
+# HEY CHATS👋
 
 <!--
 **dev-namba/dev-namba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
