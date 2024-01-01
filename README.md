@@ -1,5 +1,7 @@
 # HEY CHATS😎
 
+<h1>1日10時間はプログラムしろ</h1>
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-namba&layout=compact&count_private=true&show_icons=true&theme=onedark" />
