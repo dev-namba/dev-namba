@@ -1,14 +1,13 @@
 # HEY CHATS😎
+<h1>profile</h1>
+My name is Namba Naoki😎
+<h2>my skills</h2>
 
-<h1>1日10時間はプログラムしろ</h1>
+[![My Skills](https://skillicons.dev/icons?i=dart,docker,figma,firebase,flutter,gcp,git,github,githubactions,nestjs,nextjs,nodejs,postgres,postman,prisma,ts,vscode&perline=8)](https://skillicons.dev)
 
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-namba&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-namba&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!--
 **dev-namba/dev-namba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
