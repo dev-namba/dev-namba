@@ -1,9 +1,14 @@
 # HEY CHATS😎
 <h1>profile</h1>
 My name is Namba Naoki😎
+mobile fullstack developer
 <h2>my skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,docker,figma,firebase,flutter,gcp,git,github,githubactions,nestjs,nextjs,nodejs,postgres,postman,prisma,ts,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,ts,flutter,nestjs,nextjs,docker,firebase,gcp,githubactions,nodejs,postgres,prisma&perline=8)](https://skillicons.dev)
+
+<h2>tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,github,postman&perline=8)](https://skillicons.dev)
 
 
 <p align="left"> 
