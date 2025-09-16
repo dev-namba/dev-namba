@@ -3,7 +3,7 @@
 My name is Namba Naoki😎
 <h2>my skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,ts,flutter,nestjs,nextjs,docker,firebase,gcp,cloudflare,githubactions,nodejs,postgres,supabase,prisma,vite,aws&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,ts,flutter,nestjs,nextjs,docker,firebase,gcp,cloudflare,githubactions,nodejs,postgres,supabase,prisma,vite,expo,react,aws&perline=8)](https://skillicons.dev)
 
 <h2>tools</h2>
 
